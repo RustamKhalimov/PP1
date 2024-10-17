@@ -1,0 +1,126 @@
+************************************* Invoked: пт окт. 13 10:40:46 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[18] Operations sanity check succeeded.
+[29] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[29] Found 0 cached items.
+[29] Language: ru-RU
+[30] Script file does not exist.
+************************************* Invoked: пт окт. 13 10:40:47 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[10] Operations sanity check succeeded.
+[21] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[21] Found 0 cached items.
+[21] Language: ru-RU
+[21] Script file does not exist.
+************************************* Invoked: пт окт. 13 10:40:47 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[10] Operations sanity check succeeded.
+[22] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[22] Found 0 cached items.
+[22] Language: ru-RU
+[23] Script file does not exist.
+************************************* Invoked: пт окт. 13 10:40:55 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[9] Operations sanity check succeeded.
+[18] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[18] Found 0 cached items.
+[18] Language: ru-RU
+[18] Script file does not exist.
+************************************* Invoked: пт окт. 13 10:40:55 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[12] Operations sanity check succeeded.
+[26] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[26] Found 0 cached items.
+[27] Language: ru-RU
+[27] Script file does not exist.
+************************************* Invoked: пт окт. 13 10:40:56 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[10] Operations sanity check succeeded.
+[23] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[23] Found 0 cached items.
+[23] Language: ru-RU
+[23] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:07 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[11] Operations sanity check succeeded.
+[24] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[24] Found 0 cached items.
+[24] Language: ru-RU
+[24] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:08 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[9] Operations sanity check succeeded.
+[20] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[20] Found 0 cached items.
+[20] Language: ru-RU
+[20] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:08 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[9] Operations sanity check succeeded.
+[19] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[19] Found 0 cached items.
+[20] Language: ru-RU
+[20] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:13 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[13] Operations sanity check succeeded.
+[23] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[23] Found 0 cached items.
+[23] Language: ru-RU
+[23] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:22 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[4] Operations sanity check succeeded.
+[12] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[12] Found 0 cached items.
+[12] Language: ru-RU
+[12] Script file does not exist.
+************************************* Invoked: ср окт. 18 13:10:26 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[5] Operations sanity check succeeded.
+[13] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[13] Found 0 cached items.
+[13] Language: ru-RU
+[13] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:44 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[8] Operations sanity check succeeded.
+[16] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[16] Found 0 cached items.
+[16] Language: ru-RU
+[16] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:45 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[8] Operations sanity check succeeded.
+[19] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[19] Found 0 cached items.
+[20] Language: ru-RU
+[20] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:45 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[8] Operations sanity check succeeded.
+[17] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[17] Found 0 cached items.
+[17] Language: ru-RU
+[17] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:53 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[13] Operations sanity check succeeded.
+[25] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[25] Found 0 cached items.
+[25] Language: ru-RU
+[25] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:54 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[8] Operations sanity check succeeded.
+[17] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[17] Found 0 cached items.
+[17] Language: ru-RU
+[17] Script file does not exist.
+************************************* Invoked: ср окт. 25 17:58:54 2023
+[0] Arguments: c:\Users\RHali\Downloads\msys2-x86_64-20230526.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[6] Operations sanity check succeeded.
+[15] Using metadata cache from "C:/Users/RHali/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[15] Found 0 cached items.
+[15] Language: ru-RU
+[15] Script file does not exist.
